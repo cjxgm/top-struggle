@@ -1,5 +1,5 @@
 # Unmaintained Any More
-This project is replaced by
+This project is deprecated by
 [top-fence](http://git.oschina.net/cjxgm/gnome-extensions/tree/top-fence/),
 which is a gnome-shell extension.
 
